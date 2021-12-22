@@ -9,4 +9,4 @@ I’m Vedran and I' am Web & Software Developer.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedran77&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedran77&show_icons=true&theme=radical)
