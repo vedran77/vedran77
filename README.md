@@ -1,5 +1,5 @@
 ### 👋 Hello
-I’m Vedran and I' am Web & Software Developer.
+My name is Vedran and I' am Web & Software Developer.
 I love coding, and entire process of developing software or web applications, also I want to learn something new.
 
 ### 📖 Skills
