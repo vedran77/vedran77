@@ -1,5 +1,6 @@
 ### 👋 Hello
-I’m Vedran and I' am Web & Software Developer. 
+I’m Vedran and I' am Web & Software Developer.
+I love coding, and entire process of developing software or web applications, also I want to learn something new.
 
 ### 📖 Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
