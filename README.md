@@ -16,6 +16,6 @@ I love coding, and entire process of developing software or web applications, al
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📩 Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) You can contact me with email: vedran77@icloud.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) You can contact me with email: vedranv673@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedran77&show_icons=true&theme=radical) 
