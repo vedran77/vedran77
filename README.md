@@ -1,4 +1,3 @@
- readme = `
 ## 👋 Hey, I'm Vedran
 
 I'm a **Web & Software Developer** passionate about building clean, modern, high-quality applications — both web and desktop.
